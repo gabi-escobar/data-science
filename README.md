@@ -1,7 +1,3 @@
-# Proyecto Ventas
-Descripción: Análisis de ventas por categoría de producto.
-## Instrucciones de Instalación
-1. Clona este repositorio.
-2. Instala los requisitos: NumPy, Pandas.
-## Uso
-Ejecuta el script principal para analizar los datos.
+# Retail Sales Analysis
+
+Este proyecto analiza y predice las ventas de una tienda de retail utilizando técnicas de ciencia de datos
